@@ -1,0 +1,45 @@
+.combined-shape {
+  height: 74px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+.group-14 {
+  align-items: center;
+  display: flex;
+  height: 74px;
+  left: 0;
+  min-width: 84px;
+  position: absolute;
+  top: 0;
+}
+.group-15 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 0.19px;
+  min-width: 100px;
+}
+.overlap-group-4 {
+  height: 74px;
+  position: relative;
+  width: 84px;
+}
+.path-5-1 {
+  height: 29px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 16px;
+}
+.path-5-copy {
+  height: 74px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}

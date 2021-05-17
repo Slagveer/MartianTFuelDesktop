@@ -1,0 +1,90 @@
+:root {
+  --fuscous-gray: #555555;
+  --hint-of-red: #f9f9f9;
+  --magnolia: #faf6ff;
+  --purple-heart: #6e2fbf;
+  --purple-heart-22: #7940db;
+  --purple-heart-32: #7235c8;
+  --white: #ffffff;
+
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 21px;
+  --font-size-xl2: 36px;
+
+  --font-family-verdana: "Verdana", Helvetica;
+  --font-family-verdana-bold: "Verdana-Bold", Helvetica;
+  --font-family-verdana-bolditalic: "Verdana-BoldItalic", Helvetica;
+  --font-family-verdana-italic: "Verdana-Italic", Helvetica;
+}
+.verdana-normal-fuscous-gray-16px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-verdana);
+  font-size: var(--font-size-m);
+  font-style: normal;
+}
+.verdana-normal-purple-heart-16px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-verdana);
+  font-size: var(--font-size-m);
+  font-style: normal;
+}
+.verdana-normal-purple-heart-20px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-verdana);
+  font-size: var(--font-size-l);
+  font-style: normal;
+}
+.verdana-normal-purple-heart-14px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-verdana);
+  font-size: var(--font-size-s);
+  font-style: normal;
+}
+.verdana-bold-purple-heart-20px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-verdana-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+.verdana-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-verdana);
+  font-size: var(--font-size-l);
+  font-style: normal;
+}
+.verdana-bolditalic-normal-purple-heart-16px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-verdana-bolditalic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+.verdana-normal-fuscous-gray-20px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-verdana);
+  font-size: var(--font-size-l);
+  font-style: normal;
+}
+.verdana-italic-normal-purple-heart-36px {
+  color: var(--purple-heart-22);
+  font-family: var(--font-family-verdana-italic);
+  font-size: var(--font-size-xl2);
+  font-style: italic;
+  font-weight: 400;
+}
+.verdana-italic-normal-fuscous-gray-21px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-verdana-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+}
+.border-2px-purple-heart {
+  border: 2px solid var(--purple-heart);
+}
+.border-1px-purple-heart-3 {
+  border: 1px solid var(--purple-heart-32);
+}

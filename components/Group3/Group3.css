@@ -1,0 +1,25 @@
+.group-3-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 63px;
+  min-width: 1424px;
+  position: absolute;
+  top: 214px;
+}
+.group-3-copy.group-3-1 {
+  top: 16px;
+}
+.rectangle-copy- {
+  background-color: var(--magnolia);
+  border-radius: 2px;
+  height: 20px;
+  margin-left: 16px;
+  width: 20px;
+}
+.rectangle-copy-6 {
+  background-color: var(--magnolia);
+  border-radius: 2px;
+  height: 20px;
+  width: 20px;
+}

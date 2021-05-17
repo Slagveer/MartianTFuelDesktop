@@ -1,0 +1,48 @@
+.group-2 {
+  align-items: center;
+  display: flex;
+  min-width: 265px;
+}
+.group-4-copy {
+  align-items: flex-start;
+  display: flex;
+  height: 56px;
+  justify-content: center;
+  left: 703px;
+  min-width: 327px;
+  position: absolute;
+  top: 302px;
+}
+.join-us-on-telegram {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 26px;
+  min-width: 233px;
+  text-align: center;
+  width: 233px;
+}
+.logo {
+  align-items: flex-end;
+  background: linear-gradient(180deg, #2aabee 0%, #229ed9 99.26%);
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  min-width: 32px;
+  padding: 8.0px 6.0px;
+}
+.overlap-group23 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 32px;
+  display: flex;
+  height: 57px;
+  margin-top: -0.5px;
+  min-width: 328px;
+  padding: 11.5px 31.5px;
+}
+.path-3-1 {
+  height: 14px;
+  object-fit: cover;
+  width: 17px;
+}

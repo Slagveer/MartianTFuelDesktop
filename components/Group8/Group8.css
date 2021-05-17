@@ -1,0 +1,30 @@
+.fill-63 {
+  height: 6px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 74px;
+}
+.fill-64 {
+  height: 28px;
+  margin-right: 2.22px;
+  object-fit: cover;
+  width: 71px;
+}
+.fill-65 {
+  height: 69px;
+  margin-right: 4.08px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 65px;
+}
+.group-8 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 26px;
+  min-height: 106px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 214px;
+  width: 74px;
+}

@@ -1,0 +1,34 @@
+.group-6 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 106px;
+  justify-content: flex-end;
+  margin-right: 14.99px;
+  min-width: 71px;
+  transform: rotate(11.00deg);
+}
+.overlap-group6-2 {
+  height: 117px;
+  margin-top: -6.71px;
+  position: relative;
+  width: 91px;
+}
+.path-4-1 {
+  height: 106px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-11.00deg);
+  width: 54px;
+}
+.path-4-copy-2 {
+  height: 83px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  transform: rotate(-11.00deg);
+  width: 48px;
+}

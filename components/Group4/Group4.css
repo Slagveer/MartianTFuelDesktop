@@ -1,0 +1,22 @@
+.buy-pre-sale-tokens {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 26px;
+  min-width: 287px;
+  text-align: center;
+  width: 287px;
+}
+.group-4 {
+  align-items: center;
+  background: linear-gradient(180deg, #7a41dc 0%, #6e2fbf 100%);
+  border-radius: 32px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 344px;
+  min-width: 327px;
+  padding: 0 19px;
+  position: absolute;
+  top: 302px;
+}

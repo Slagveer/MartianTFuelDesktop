@@ -1,0 +1,39 @@
+.fill-69 {
+  height: 34px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+.fill-70 {
+  height: 35px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 41px;
+}
+.fill-71 {
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 124px;
+}
+.group-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 71px;
+  left: 332px;
+  min-width: 124px;
+  position: absolute;
+  top: 248px;
+}
+.overlap-group20 {
+  height: 71px;
+  margin-bottom: 0;
+  position: relative;
+  width: 124px;
+}

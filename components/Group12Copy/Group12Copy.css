@@ -1,0 +1,49 @@
+.fill-72 {
+  height: 31px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 26px;
+}
+.fill-73 {
+  height: 31px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 26px;
+}
+.fill-74 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+.group-12-copy {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 53px;
+  padding: 0 0.0px;
+}
+.group-12-copy-.group-12-copy {
+  height: 93px;
+  position: relative;
+}
+.group-12.group-12-copy {
+  align-self: unset;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+}
+.overlap-group17 {
+  height: 93px;
+  margin-top: 0;
+  position: relative;
+  width: 53px;
+}
